@@ -43,3 +43,8 @@ end
 
 # Use debugger
 # gem 'debugger', group: [:development, :test]
+gem 'bundler'
+
+gem 'pry-rails', group: :development
+
+gem 'validates_formatting_of'
